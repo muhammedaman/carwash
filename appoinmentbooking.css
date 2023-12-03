@@ -1,0 +1,32 @@
+/* Custom Styles for Appointment Form */
+.appointment-section {
+    padding: 80px 0;
+}
+
+.appointment-form {
+    background: black;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.appointment-form h2 {
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.appointment-form form {
+    max-width: 100%;
+}
+
+.appointment-form label {
+    font-weight: bold;
+}
+
+.appointment-form .form-group {
+    margin-bottom: 20px;
+}
+
+.appointment-form textarea {
+    resize: vertical;
+}
